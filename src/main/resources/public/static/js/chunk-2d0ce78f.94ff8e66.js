@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ce78f"],{6032:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement;n._self._c;return n._m(0)},i=[function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[t("div",[n._v("Фильтры")]),t("div",[n._v("Карта")]),t("div",[n._v("Таблица")])])}],r=(t("cadf"),t("551c"),t("f751"),t("097d"),{name:"Points",components:{}}),s=r,u=t("2877"),a=Object(u["a"])(s,c,i,!1,null,null,null);e["default"]=a.exports}}]);
+//# sourceMappingURL=chunk-2d0ce78f.94ff8e66.js.map
